@@ -32,6 +32,8 @@
     - метрики электронной коммерции,
     - маркетинговые.
 
+Проект закончен и сдан.
+
 ## Библиотеки
 
 *pandas*, *matplotlib.pyplot*, *seaborn*, "scipy", "numpy", "plotly.express", "plotly.graph_objects"
